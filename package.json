@@ -1,5 +1,5 @@
 {
-  "name": "TeknoEvreniSmsBomb",
+  "name": "TERMUX_ADAM_ARŞİV_SMS_BOMB",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Can & TeknoEvreniSmsBomb",
+  "author": "Can & TERMUXADAMAARŞİVSMSBOMB",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
